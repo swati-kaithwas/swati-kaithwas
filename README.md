@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swati Kaithwas</h1>
 <h3 align="center">A passionate full stack web developer.</h3>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="coding" width:"100px"/>
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="coding" width:"500px"/>
 - 🌱 I’m currently learning **React & MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/swati-kaithwas](https://github.com/swati-kaithwas)
