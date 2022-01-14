@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swati Kaithwas</h1>
 <h3 align="center">A passionate full stack web developer.</h3>
-<img src="https://www.pngkey.com/png/detail/165-1654020_cartoon-working-in-office.png" alt="coding" width:"100" height:"200"/>
+<img src="https://www.pngkey.com/png/detail/165-1654020_cartoon-working-in-office.png" alt="coding" width:"100px" height:"200px"/>
 - 🌱 I’m currently learning **React & MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/swati-kaithwas](https://github.com/swati-kaithwas)
