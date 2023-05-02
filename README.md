@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swati Kaithwas</h1>
-<h3 align="center">A passionate full stack web developer.</h3>
+<h3 align="center">An aspiring full stack web developer from india. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</h3>
 <p align="center">
 <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" alt="coding" width="600" height="400" /></p>
 
